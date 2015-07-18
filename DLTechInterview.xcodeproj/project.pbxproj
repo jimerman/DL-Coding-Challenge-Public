@@ -19,6 +19,7 @@
 		5B9081AB1B52E65F009F3665 /* ConditionsCellView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5B9081AA1B52E65F009F3665 /* ConditionsCellView.xib */; };
 		5B9081AE1B548B8E009F3665 /* cloud-background-resized2.jpg in Resources */ = {isa = PBXBuildFile; fileRef = 5B9081AD1B548B8E009F3665 /* cloud-background-resized2.jpg */; };
 		5BADCC6E1B51FE0E0078D9C6 /* UtilityClasses.swift in Sources */ = {isa = PBXBuildFile; fileRef = 5BADCC6D1B51FE0E0078D9C6 /* UtilityClasses.swift */; };
+		5BF31E671B597A0600306418 /* ForecastView.xib in Resources */ = {isa = PBXBuildFile; fileRef = 5BF31E661B597A0600306418 /* ForecastView.xib */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -57,6 +58,7 @@
 		5B9081AA1B52E65F009F3665 /* ConditionsCellView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ConditionsCellView.xib; sourceTree = "<group>"; };
 		5B9081AD1B548B8E009F3665 /* cloud-background-resized2.jpg */ = {isa = PBXFileReference; lastKnownFileType = image.jpeg; name = "cloud-background-resized2.jpg"; path = "Resources/cloud-background-resized2.jpg"; sourceTree = SOURCE_ROOT; };
 		5BADCC6D1B51FE0E0078D9C6 /* UtilityClasses.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = UtilityClasses.swift; sourceTree = "<group>"; };
+		5BF31E661B597A0600306418 /* ForecastView.xib */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = file.xib; path = ForecastView.xib; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -161,6 +163,7 @@
 			isa = PBXGroup;
 			children = (
 				5B9081AA1B52E65F009F3665 /* ConditionsCellView.xib */,
+				5BF31E661B597A0600306418 /* ForecastView.xib */,
 			);
 			name = Views;
 			sourceTree = "<group>";
@@ -279,6 +282,7 @@
 			buildActionMask = 2147483647;
 			files = (
 				5B9081AB1B52E65F009F3665 /* ConditionsCellView.xib in Resources */,
+				5BF31E671B597A0600306418 /* ForecastView.xib in Resources */,
 				5B55D5C21B4EE41F00AADF34 /* LaunchScreen.storyboard in Resources */,
 				5B55D5BF1B4EE41F00AADF34 /* Assets.xcassets in Resources */,
 				5B9081AE1B548B8E009F3665 /* cloud-background-resized2.jpg in Resources */,
